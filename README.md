@@ -2,9 +2,9 @@
 
 ### Education
 Master of Sciences in Biostatistics & Health Analytics, Concentration in Geospatial Health Data Analytics
-Saint Louis University, Saint Louis, MO 
-- Masters Project: Developed an R Shiny interactive dashboard for comparing the spatial patterns of influenza cases and COVID-19 cases in Tennessee.
-- GPA: 4.00
+- Saint Louis University, Saint Louis, MO 
+  - Masters Project: Developed an R Shiny interactive dashboard for comparing the spatial patterns of influenza cases and COVID-19 cases in Tennessee.
+  - GPA: 4.00
 
 Bachelor of Sciences in Biostatistics & Public Health, Minor in Information Technology Management 
 Saint Louis University, Saint Louis, MO 
