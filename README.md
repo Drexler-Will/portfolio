@@ -4,11 +4,9 @@
 Master of Sciences in Biostatistics & Health Analytics, Concentration in Geospatial Health Data Analytics
 - Saint Louis University, Saint Louis, MO 
   - Masters Project: Developed an R Shiny interactive dashboard for comparing the spatial patterns of influenza cases and COVID-19 cases in Tennessee.
-  - GPA: 4.00
 
 Bachelor of Sciences in Biostatistics & Public Health, Minor in Information Technology Management 
-Saint Louis University, Saint Louis, MO 
-- GPA: 3.92
+- Saint Louis University, Saint Louis, MO 
 
 ### Work Experience
 Statistician, Mine Safety & Health Administration (Aug. 2023 - Present)
@@ -24,6 +22,10 @@ COVID-19 Data Analyst, St. Louis University (Apr. 2021 - Jul. 2022)
 - Presented cumulative and emerging trends to STL County DPH officials to inform policy decisions. 
 - Collaborated with an interdisciplinary team to plan statistical analyses and gather insights.
 
+COVID-19 Vaccine Hesitancy Survey Research Assistant, St. Louis University (Dec. 2020 - Jul. 2021)
+- Examined data from a COVID-19 vaccination hesitancy Qualtrics survey in Missouri.
+- Conducted ordinal regression models and Cronbach's alpha analysis within R and SPSS.
+- Provided impactful contributions while working in the fast-changing environment of COVID-19 research.
 
 ### Projects
 UltiAnalytics
